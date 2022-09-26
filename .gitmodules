@@ -1,0 +1,24 @@
+[submodule "HelpColor"]
+	path = HelpColor
+	url = git@github.com:outflanknl/HelpColor.git
+[submodule "C2-Tool-Collection"]
+	path = C2-Tool-Collection
+	url = git@github.com:outflanknl/C2-Tool-Collection.git
+[submodule "FindObjects-BOF"]
+	path = FindObjects-BOF
+	url = git@github.com:outflanknl/FindObjects-BOF.git
+[submodule "PrintNightmare"]
+	path = PrintNightmare
+	url = git@github.com:outflanknl/PrintNightmare.git
+[submodule "CS-Situational-Awareness-BOF"]
+	path = CS-Situational-Awareness-BOF
+	url = git@github.com:trustedsec/CS-Situational-Awareness-BOF.git
+[submodule "CS-Remote-OPs-BOF"]
+	path = CS-Remote-OPs-BOF
+	url = git@github.com:trustedsec/CS-Remote-OPs-BOF.git
+[submodule "nanodump"]
+	path = nanodump
+	url = git@github.com:helpsystems/nanodump.git
+[submodule "unhook-bof"]
+	path = unhook-bof
+	url = git@github.com:rsmudge/unhook-bof.git
